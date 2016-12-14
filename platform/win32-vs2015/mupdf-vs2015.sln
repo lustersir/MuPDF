@@ -669,7 +669,8 @@ Global
 		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseJava|Win32.ActiveCfg = ReleaseCommercial|x64
 		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseJava|x64.ActiveCfg = ReleaseCommercial|x64
 		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseJava|x64.Build.0 = ReleaseCommercial|x64
-		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseOpenssl|Win32.ActiveCfg = ReleaseCommercial|x64
+		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseOpenssl|Win32.ActiveCfg = ReleaseCommercial|Win32
+		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseOpenssl|Win32.Build.0 = ReleaseCommercial|Win32
 		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseOpenssl|x64.ActiveCfg = ReleaseCommercial|x64
 		{DE21FA8A-FC8A-47E0-87E4-DCE8808BFC9B}.ReleaseOpenssl|x64.Build.0 = ReleaseCommercial|x64
 		{FFF91365-C9BA-4F40-AE2B-EF93702871B2}.Debug|Win32.ActiveCfg = Debug|Win32
